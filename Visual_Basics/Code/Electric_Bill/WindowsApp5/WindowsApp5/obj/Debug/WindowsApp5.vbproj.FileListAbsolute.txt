@@ -1,0 +1,13 @@
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.exe.config
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.exe
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.pdb
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.xml
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.frmInformations.resources
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.frmCalcul.resources
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.exe
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.xml
+C:\Users\beeha\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.pdb

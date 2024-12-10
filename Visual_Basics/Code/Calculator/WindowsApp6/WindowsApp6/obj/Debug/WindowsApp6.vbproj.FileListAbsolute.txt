@@ -1,0 +1,24 @@
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbprojAssemblyReference.cache
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.frmCalculatrice.resources
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\beeha\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe.config
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\bin\Debug\WindowsApp6.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbprojAssemblyReference.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.frmCalculatrice.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.pdb

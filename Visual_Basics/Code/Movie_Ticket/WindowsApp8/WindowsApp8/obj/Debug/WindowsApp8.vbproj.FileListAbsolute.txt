@@ -1,0 +1,30 @@
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmBienvenue.resources
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmAccueil.resources
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmChoix.resources
+C:\Users\beeha\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmPay.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmBienvenue.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmAccueil.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmChoix.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.frmPay.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb

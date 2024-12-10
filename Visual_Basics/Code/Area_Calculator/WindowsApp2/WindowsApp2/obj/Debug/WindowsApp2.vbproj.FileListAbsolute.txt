@@ -1,0 +1,28 @@
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmAireduCarre.resources
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\beeha\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmAireduCarre.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmMenuPrincipal.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmTrapeze.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmCercle.resources
+C:\Users\beeha\Documents\10 Année\Semestre 2\Tech online\Unité 3\Codes\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmTriangle.resources
